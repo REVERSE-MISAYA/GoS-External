@@ -1,7 +1,9 @@
-
--- =====================
--- ===== Changelog =====
--- =====================
+-- Author: Ark223 @GoS
+-- Modified by: ReverseMisaya @GoS
+--
+-- =========================
+-- ======= Changelog =======
+-- =========================
 -- [01/03/18] Renamed table name
 -- [22/02/18] Updated for patch 8.4
 
