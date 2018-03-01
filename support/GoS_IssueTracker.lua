@@ -1,6 +1,6 @@
 
 -- +--------------------------------------------------------------------+
--- |                  GoS IssueTracker and solutions                    |
+-- |              GoS-External: IssueTracker and solutions              |
 -- +--------------------------------------------------------------------+
 -- |                                                                    |
 -- |  * Resolved GoS related issues found on the forum.                 |
