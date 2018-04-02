@@ -8,7 +8,11 @@
 -- |                                                                    |
 -- +--------------------------------------------------------------------+
 
+-- 01/04/18
+-- ADDED: Updated minion damage calculations
+-- NOTES: This needed a serious update from all the old shit people were using.
+
 -- 02/04/18
 -- ADDED: Thresh AA-logic 
--- NOTES: different from melee/ranged/missile champions, because of how his scythe works
+-- NOTES: Different from melee/ranged/missile champions, because of how his scythe works.
 
