@@ -17,3 +17,7 @@
 -- ISSUE: Unable to use keyboard or mouse in-game.
 -- SOLUTION: Disable discord ingame overlays (found in overlay menu)
 
+-- 02/04/18
+-- ISSUE: Mouseclicks are very inconsistent
+-- SOLUTION: indicator adds a delay and casts when you release the button
+-- so the mouse will have moved elsewhere by the time the script releases it
