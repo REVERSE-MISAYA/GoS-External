@@ -1,12 +1,12 @@
 
--- +--------------------------------------------------------------------+
--- |               ReverseMisaya's Orbwalker: Changelog                 |
--- +--------------------------------------------------------------------+
--- |                                                                    |
--- |  * Havent been keeping track of all previous changes :(            |
--- |  * Release date? Soon™, I'm working on it whenever I can.          |
--- |                                                                    |
--- +--------------------------------------------------------------------+
+-- +-----------------------------------------------------------------------------------+
+-- |                        ReverseMisaya's Orbwalker: Changelog                       |
+-- +-----------------------------------------------------------------------------------+
+-- |                                                                                   |
+-- |              * Havent been keeping track of all previous changes :(               |
+-- |              * Release date? Soon™, I'm working on it whenever I can.             |
+-- |                                                                                   |
+-- +-----------------------------------------------------------------------------------+
 
 -- 01/04/18
 -- ADDED: Updated minion damage calculations
