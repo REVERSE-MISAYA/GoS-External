@@ -9,12 +9,12 @@
 -- |                                                                                   |
 -- +-----------------------------------------------------------------------------------+
 
--- 03/04/18 - 22:18
+-- 03/04/18 - #2
 -- ADDED: Updated gameObject data
 -- NOTES: Added obj.hasMoved, obj.hasStoppedMoving, obj.hasAttacked, obj.HasCancelledAttack, 
 --        obj.hasStartedAttack, obj.inDetectionRange, obj.inAttackRange
 
--- 03/04/18
+-- 03/04/18 - #1
 -- ADDED: Extended all gameObject data (stuff like obj.range, obj.totalDamage, etc)
 -- NOTES: Additional entries added --> obj.trueRange, obj.isMoving, obj.sentAttack, etc
 
