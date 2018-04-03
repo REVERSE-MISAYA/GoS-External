@@ -14,7 +14,7 @@
 -- NOTES: Additional entries added --> obj.trueRange, obj.isMoving, obj.sentAttack, etc
 
 -- 02/04/18
--- ADDED: Thresh AA-logic 
+-- ADDED: Thresh AA-calculations 
 -- NOTES: Different from melee/ranged/missile champions, because of how his scythe works.
 
 -- 01/04/18
