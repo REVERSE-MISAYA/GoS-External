@@ -10,7 +10,7 @@
 -- +-----------------------------------------------------------------------------------+
 
 -- 03/04/18
--- ADDED: Extended all gameObject data
+-- ADDED: Extended all gameObject data (stuff like obj.range, obj.totalDamage, etc)
 -- NOTES: Additional entries added --> obj.trueRange, obj.isMoving, obj.sentAttack, etc
 
 -- 02/04/18
