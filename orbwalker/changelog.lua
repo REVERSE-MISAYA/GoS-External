@@ -13,6 +13,11 @@
 -- |                             {{ Day > Month > Year }}                              |
 -- +-----------------------------------------------------------------------------------+
 
+-- 05/04/18
+-- ADDED: Fixed a bug where sent attacks where not calculated when its source died at
+--        exact moment an attack object got created. 
+-- ADDED: Updated gameObjects are now fully functional inside the orbwalker's code.
+
 -- 03/04/18 - #2
 -- ADDED: Updated gameObject data
 -- NOTES: Added obj.hasMoved, obj.hasStoppedMoving, obj.hasAttacked, obj.HasCancelledAttack, 
