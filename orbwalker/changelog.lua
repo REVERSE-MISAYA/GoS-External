@@ -13,7 +13,12 @@
 -- |                             {{ Day > Month > Year }}                              |
 -- +-----------------------------------------------------------------------------------+
 
--- 05/04/18
+-- 05/04/18 - #2
+-- ADDED: Performance + basic lastHit test (very basic, no additional logic added yet)
+-- NOTES: 225 minions @20mins with Lucian, no recall, no items, no spells
+-- NOTES: Stable ~139-140FPS with no drops (my max FPS is 142-ish with zero scripts loaded)
+
+-- 05/04/18 - #1
 -- ADDED: Fixed a bug where sent attacks where not calculated when its source died at
 --        exact moment an attack object got created. 
 -- ADDED: Updated gameObjects are now fully functional inside the orbwalker's code.
