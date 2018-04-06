@@ -13,6 +13,10 @@
 -- |                             {{ Day > Month > Year }}                              |
 -- +-----------------------------------------------------------------------------------+
 
+-- 06/04/18
+-- ADDED: First draft that handles cancelled attacks
+-- NOTES: Just cool stuff that works :)
+
 -- 05/04/18 - #2
 -- ADDED: Performance + basic lastHit test (very basic, no additional logic added yet)
 -- NOTES: 225 minions @20mins with Lucian, no recall, no items, no spells
