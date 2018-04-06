@@ -14,7 +14,7 @@
 -- +-----------------------------------------------------------------------------------+
 
 -- 06/04/18
--- ADDED: First draft that handles cancelled attacks
+-- ADDED: First draft that handles cancelled minion attacks
 -- NOTES: Just cool stuff that works :)
 
 -- 05/04/18 - #2
