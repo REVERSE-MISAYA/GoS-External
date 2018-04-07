@@ -13,6 +13,10 @@
 -- |                             {{ Day > Month > Year }}                              |
 -- +-----------------------------------------------------------------------------------+
 
+-- 07/04/18
+-- ADDED: Second lasthit test with some new changes in the code. Hitting the mark!
+-- NOTES: 230 minions @20mins with lucian, no recall, no items, no spells.
+
 -- 06/04/18
 -- ADDED: First draft that handles cancelled minion attacks
 -- NOTES: Just cool stuff that works :)
