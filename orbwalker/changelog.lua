@@ -13,6 +13,10 @@
 -- |                             {{ Day > Month > Year }}                              |
 -- +-----------------------------------------------------------------------------------+
 
+-- 08/04/18
+-- ADDED: Absolutely nailed the lasthit calculation
+-- NOTES: Packets are overrated, same goes for callbacks ;)
+
 -- 07/04/18
 -- ADDED: Second lasthit test with some new changes in the code. Hitting the mark!
 -- NOTES: 230 minions @20mins with lucian, no recall, no items, no spells.
