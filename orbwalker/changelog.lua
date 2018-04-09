@@ -13,6 +13,9 @@
 -- |                             {{ Day > Month > Year }}                              |
 -- +-----------------------------------------------------------------------------------+
 
+-- 09/04/18
+-- ADDED: Improved logic for cancelled attacks
+
 -- 08/04/18
 -- ADDED: Absolutely nailed the lasthit calculation
 -- NOTES: Packets are overrated, same goes for callbacks ;)
