@@ -13,6 +13,10 @@
 -- |                             {{ Day > Month > Year }}                              |
 -- +-----------------------------------------------------------------------------------+
 
+-- 10/04/18
+-- ADDED: First code design implemented for skillshots
+-- NOTES: Devs can register custom skillshot logic / data for a full integration with orbwalker
+
 -- 09/04/18
 -- ADDED: Improved logic for cancelled attacks
 
