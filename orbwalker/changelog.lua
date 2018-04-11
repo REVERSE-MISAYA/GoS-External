@@ -13,7 +13,7 @@
 -- |                             {{ Day > Month > Year }}                              |
 -- +-----------------------------------------------------------------------------------+
 
--- 1`1/04/18
+-- 11/04/18
 -- ADDED: Fixed .spellWasCast from GoS API + added doubleclick to mouseHandler
 
 -- 10/04/18
