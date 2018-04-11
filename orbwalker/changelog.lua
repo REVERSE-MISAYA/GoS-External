@@ -13,6 +13,9 @@
 -- |                             {{ Day > Month > Year }}                              |
 -- +-----------------------------------------------------------------------------------+
 
+-- 1`1/04/18
+-- ADDED: Fixed .spellWasCast from GoS API + added doubleclick to mouseHandler
+
 -- 10/04/18
 -- ADDED: First code design implemented for skillshots
 -- NOTES: Devs can register custom skillshot logic / data for full integration with orbwalker
