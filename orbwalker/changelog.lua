@@ -14,7 +14,7 @@
 -- +-----------------------------------------------------------------------------------+
 
 -- 11/04/18
--- ADDED: Fixed .spellWasCast from GoS API + added doubleclick to mouseHandler
+-- ADDED: Fixed .spellWasCast from GoS API + added doubleclick func to mouseHandler (e.g janna-Q)
 
 -- 10/04/18
 -- ADDED: First code design implemented for skillshots
