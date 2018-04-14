@@ -13,6 +13,9 @@
 -- |                             {{ Day > Month > Year }}                              |
 -- +-----------------------------------------------------------------------------------+
 
+-- 14/04/18
+-- ADDED: Minor bugfixes to input handler
+
 -- 11/04/18
 -- ADDED: Fixed .spellWasCast from GoS API + added doubleclick to mouseHandler
 
