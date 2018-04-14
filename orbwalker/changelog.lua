@@ -17,7 +17,8 @@
 -- ADDED: Minor bugfixes to input handler
 
 -- 11/04/18
--- ADDED: Fixed .spellWasCast from GoS API + added doubleclick to mouseHandler
+-- ADDED: Fixed .spellWasCast from GoS API
+-- ADDED: Doubleclick func to inputHandler (e.g janna-Q)
 
 -- 10/04/18
 -- ADDED: First code design implemented for skillshots
