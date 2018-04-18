@@ -13,6 +13,9 @@
 -- |                             {{ Day > Month > Year }}                              |
 -- +-----------------------------------------------------------------------------------+
 
+-- 18/04/18
+-- NOTES: Many changes somewhere later this week :)
+
 -- 14/04/18
 -- ADDED: Minor bugfixes to input handler
 
